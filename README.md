@@ -1,2 +1,7 @@
-# demo-enricci-propiedades
-Demo web para ENRICCI PROPIEDADES — diseñada por eterlab.
+# ENRICCI PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
